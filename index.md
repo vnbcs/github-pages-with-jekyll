@@ -1,3 +1,8 @@
-# Welcome to my blog
+# Practicing making a website
 
-I'm glad you are here. I plan to talk about ...
+Hi everyone!
+
++ Here I am typing text.
+
+Bye everyone.
+
